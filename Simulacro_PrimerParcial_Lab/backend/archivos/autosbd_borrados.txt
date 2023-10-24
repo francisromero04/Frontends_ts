@@ -1,0 +1,1 @@
+patente:NPQ497,marca:RenaultClio,color:Hueso,precio:350,foto:NPQ497.RenaultClio.borrado.070208.jpg

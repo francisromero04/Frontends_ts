@@ -1,1 +1,1 @@
-En este repositorio se encuentran parciales de laboratorio III.
+En este repositorio se encuentran parciales de la materia Laboratorio III.
